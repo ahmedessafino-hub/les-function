@@ -1,0 +1,6 @@
+{
+  "name": "MySQL Functions Hub - Guide Complet & Interactif OFPPT",
+  "description": "Guide interactif complet des fonctions MySQL avec tableaux de syntaxe, rôles, exemples, résultats détaillés et simulateur interactif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
